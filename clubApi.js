@@ -46,4 +46,4 @@ const clubApi = {
   customer,
 }
 
-export { js680club };
+export { clubApi };
